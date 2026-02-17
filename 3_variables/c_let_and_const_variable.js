@@ -13,3 +13,4 @@ const score = 200;
 console.log(score); // this displays 200
 score = 300;
 console.log(score); // this shows error
+// Here once the value of const has been assigned then it cannot be reassigned as the let variable. Const variable doesnot let to ressign the value it throws error.
