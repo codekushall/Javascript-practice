@@ -1,1 +1,14 @@
 JavaScript is a programming language.
+
+Data Types
+- In javascript, datatype is the kind of value you store like number or text. DataType helps us to understand on what type of data we are using like numbers or test.There are different types of datatypes:
+- integers/numbers(2,43,-23)
+- floating numbers(1.22,34.2,-9.21)
+- string("",'')
+- symbol(@,#)
+- BigInt(Used for those numbers which exceed the limit of number variable.(1.734632428373628473765n))
+- Boolen (True or False)
+- object (used for grouping different information like age,name,number)
+
+Variables
+-In Javascript, variables acts as a containers which stores the data that you can access and modify throughout the program.
