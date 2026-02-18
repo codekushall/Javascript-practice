@@ -19,3 +19,6 @@ Strings
 -In Javascript, strings are the sequence of characters which are used to store text data. It is one of the type of premitive data type along with integers,boolean,null and undefined.
 -To create a String we can use SingleQuotes and DoubleDuotes.
 -Strings are immutable in programing (immutable means once the value is assigned the value cannot be changed.)
+
+String Concatenation
+-In JavaScript, String Concatenation is the process of combing two or more texts together to form a single text,while coding text is essential part of coding so we need to combine texts and for that we need String Concatenation.
