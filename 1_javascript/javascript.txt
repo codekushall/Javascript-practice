@@ -12,3 +12,5 @@ Data Types
 
 Variables
 -In Javascript, variables acts as a containers which stores the data that you can access and modify throughout the program.
+-let(let is a type of variables which value can be changed throughout the program without any error. )
+-const(const is a type of variables whose value can only be assigned onetime once the value is assigned it cannot be changed as in let.)
